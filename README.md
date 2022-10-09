@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mansidak
-- 👀 I’m interested in ... Swift, Web Apps
-- 🌱 I’m currently learning ... Electron, Node.js, SwiftUI
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Swift, Mech Design, Full Stack
+- 🌱 I’m currently learning ... Golang
+- 💞️ I’m looking to collaborate on ... HMU
 - 📫 How to reach me ... mansidak@frostwriter.com
 
 <!---
